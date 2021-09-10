@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/VanishingSoulZD/learnProtobufMain/myprotobuf";
+option go_package = "./";
 package myprotobuf;
 import "myprotobuf/tmp.proto";
 
