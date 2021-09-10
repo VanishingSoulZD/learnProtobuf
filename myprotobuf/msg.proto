@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-option go_package = "https://github.com/VanishingSoulZD/learnProtobufMain/myprotobuf";
+option go_package = "github.com/VanishingSoulZD/learnProtobufMain/myprotobuf";
 package myprotobuf;
-import "myprotobuf/tmp.proto";
+import "github.com/VanishingSoulZD/learnProtobufMain/myprotobuf/tmp.proto";
 
 message SearchRequest {
   string name = 1;

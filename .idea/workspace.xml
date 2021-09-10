@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee1ec91b-7c8f-4e6e-935d-cc02a49f8b44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myprotobuf/msg.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myprotobuf/tmp.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/https:/github.com/VanishingSoulZD/learnProtobufMain/myprotobuf/tmp.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myprotobuf/msg.proto" beforeDir="false" afterPath="$PROJECT_DIR$/myprotobuf/msg.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myprotobuf/tmp.proto" beforeDir="false" afterPath="$PROJECT_DIR$/myprotobuf/tmp.proto" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
