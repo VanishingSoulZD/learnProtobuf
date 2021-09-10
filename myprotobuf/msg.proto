@@ -2,7 +2,7 @@ syntax = "proto3";
 
 option go_package = "github.com/VanishingSoulZD/learnProtobufMain/myprotobuf";
 package myprotobuf;
-import "github.com/VanishingSoulZD/learnProtobufMain/myprotobuf/tmp.proto";
+import "myprotobuf/tmp.proto";
 
 message SearchRequest {
   string name = 1;
