@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option go_package = "https://github.com/VanishingSoulZD/learnProtobufMain/myprotobuf";
+package myprotobuf;
+
+message Detail {
+  int64 age = 1;
+  string name = 2;
+}

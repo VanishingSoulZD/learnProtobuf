@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option go_package = "https://github.com/VanishingSoulZD/learnProtobufMain/myprotobuf";
+package myprotobuf;
+import "myprotobuf/tmp.proto";
+
+message SearchRequest {
+  string name = 1;
+}
+
+message SearchResponse {
+  string reply = 1;
+  Detail detail = 2;
+}
